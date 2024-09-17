@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Abel Legesse, a second-year Computer Science major with a minor in Data Science. I really enjoy learning new things, especially techie stuff. When I'm not studying, I play soccer, watch movies, and do volunteer work. Whether I'm coding or kicking a ball, I'm always having a good time. Let's connect and chat about all things tech and more!</p>
+<p align="left">I'm Abel Legesse, a third-year Computer Science major with a minor in Data Science. I really enjoy learning new things, especially techie stuff. When I'm not studying, I play soccer, watch movies, and do volunteer work. Whether I'm coding or kicking a ball, I'm always having a good time. Let's connect and chat about all things tech and more!</p>
 
 ###
 
